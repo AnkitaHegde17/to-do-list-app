@@ -4,7 +4,8 @@ This is a simple web project hosted using GitHub Pages.
 
 ## Live Site
 
-[Click here to visit the site](https://your-username.github.io/your-repo-name/)
+[Click here to visit the site]https://ankitahegde17.github.io/to-do-list-app/
+
 
 ## Technologies Used
 
