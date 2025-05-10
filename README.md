@@ -1,6 +1,6 @@
 # Project Title
 
-This is a simple web project hosted using GitHub Pages.
+Task manager 
 
 ## Live Site
 
@@ -14,8 +14,7 @@ This is a simple web project hosted using GitHub Pages.
 - JavaScript (if used)
 
 ## Description
-
-Brief description of what the project does and why you made it.
+A simple and responsive to-do list web application built using HTML, CSS, and JavaScript. This project allows users to add, delete, and mark tasks as completed. It was created as a beginner-level project to practice DOM manipulation, event handling, and basic front-end web development skills.
 
 ## How to Use
 
